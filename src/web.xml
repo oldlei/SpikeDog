@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <map>
+        <sname>/ceshi</sname>
+        <class>com.ceshi.java.CeShi</class>
+    </map>
+    <map>
+        <sname>b</sname>
+        <class>2</class>
+    </map>
+    <map>
+        <sname>c</sname>
+        <class>3</class>
+    </map>
+    <map>
+        <sname>d</sname>
+        <class>4</class>
+    </map>
+</server>
